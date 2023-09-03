@@ -176,7 +176,7 @@ color: #404BBF;
 
 .solution-cont {
         align-items: center;
-       
+         
 }
 
 .top-section-title {
@@ -186,9 +186,11 @@ color: #404BBF;
         font-weight: 700;
         line-height: 1.07;
         letter-spacing: 0.02em;
+        display: block;
         max-width: 496px;
         margin: 0 auto;
         margin-bottom: 48px;
+        
         
         }
 
